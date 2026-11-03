@@ -12,7 +12,7 @@ press return twice to create a new line
 
 # About Me
 - 1st year Science
-- Mildly interested in fish
+- Mildly interested in consuming fish
 <!--
 **FishFanatic/FishFanatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
