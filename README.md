@@ -1,5 +1,18 @@
 ## Hi there 👋
+# big title
+Hello this is new text
 
+
+press return twice to create a new line
+
++ this one
+- this one
+* this one
+
+
+# About Me
+- 1st year Science
+* other info 
 <!--
 **FishFanatic/FishFanatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
